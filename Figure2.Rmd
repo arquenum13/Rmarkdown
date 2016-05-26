@@ -1,0 +1,13 @@
+---
+title: "Data Incubator Project Proposal: Figure2"
+author: "Armand Quenum"
+date: "April 18, 2016"
+output: html_document
+---
+
+![](Legislation_Topics.png)
+
+**Figure 2:** The percent of Major Topics passed by 110th, 111th, and 112th Congress
+
+Major Topic 20 is Government Operations, which includes budget requests and 
+appropriations for multiple departments and agencies

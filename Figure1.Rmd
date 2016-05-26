@@ -1,0 +1,9 @@
+---
+title: "Data Incubator Project Proposal: Figure 1"
+author: "Armand Quenum"
+date: "April 18, 2016"
+output: html_document
+---
+
+![](Law_Passed_From_1948_to_2011.png)
+**Figure 1:** The total laws pass for each Congress, dating back to 1948
