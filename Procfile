@@ -1,1 +1,1 @@
-web: R -f prog.R --gui-none --no-save
+web: R -f prog.R
